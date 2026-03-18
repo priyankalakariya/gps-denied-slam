@@ -1,6 +1,6 @@
 # GPS-Denied Drone SLAM
 
-Autonomous SLAM system for underground mine mapping without GPS. Team project for MS Robotics at Northeastern University.
+Autonomous SLAM system for underground mine mapping without GPS. 
 
 ## About
 
